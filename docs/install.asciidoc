@@ -1,0 +1,18 @@
+= Install Love2dToAP
+
+Step One
+--------
+Unzip the release-zip, or go to the `publish`-folder in the source. And run `setup.exe`.
+
+Step Two
+--------
+If the app don't launch automatically, launch it from the start-menu
+
+Step Three
+----------
+Click the `dirs` button in the menu strip, a explorer window should now be opened with an empty folder.
+Copy the contents from the `tools`-folder, this is located in the same place as `setup.exe`.
+
+Step Four
+---------
+The should now be ready to use.
