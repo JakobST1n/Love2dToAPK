@@ -1,9 +1,11 @@
+# Download 
+Click one of the download-buttons to the right, if you want to get the source. +
+To download the latest release to to the [release-page](https://github.com/JakobS1n/Love2dToAPK/releases).
 # Install
-
 ## Step One
 Unzip the downloaded file, and double-click `setup.exe`. (You could also compile from source, you will then find the `setup.exe` in the `publish`-folder.)
 
-## Step Two
+## Step Tw]
 If the program doesn't start by itself. Find it in the start menu, and open it.
 
 ## Step Three
